@@ -1,7 +1,7 @@
 # alakazam
 foreground: &foreground "#f2f3f1"
-background: &background ""
-black: &black ""
+background: &background "#210e1f"
+black: &black "#170415"
 blue: &blue "#899eea"
 green: &green "#9ee865"
 gray: &gray "#c9c9bf"

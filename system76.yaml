@@ -9,7 +9,7 @@ orange: &orange "#d19a66"
 purple: &purple "#D16D9E"
 red: &red "#f15d22"
 yellow: &yellow "#eece61"
-yellow_bright: &yellow_bright ""
+yellow_bright: &yellow_bright "#D7BA7D"
 
 k9s:
   body:

@@ -1,7 +1,7 @@
 # arctic
 foreground: &foreground "#b8d7db"
 background: &background "#1e2530"
-black: &black ""
+black: &black "#141b26"
 blue: &blue "#80a2eb"
 green: &green "#80ddd0"
 gray: &gray "#768789"
