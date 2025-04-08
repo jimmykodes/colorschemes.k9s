@@ -1,15 +1,15 @@
 # arctic
-foreground: &foreground "#b8d7db"
-background: &background "#1e2530"
-black: &black "#141b26"
-blue: &blue "#80a2eb"
-green: &green "#80ddd0"
-gray: &gray "#768789"
-orange: &orange "#e5b680"
-purple: &purple "#dd73d1"
-red: &red "#dd7383"
-yellow: &yellow "#ddd180"
-yellow_bright: &yellow_bright "<nil>"
+foreground: &foreground "#E5E9F0"
+background: &background "#2E3440"
+black: &black "#242a36"
+blue: &blue "#81A1C1"
+green: &green "#8FBCBB"
+gray: &gray "#434C5E"
+orange: &orange "#D08770"
+purple: &purple "#B48EAD"
+red: &red "#BF616A"
+yellow: &yellow "#EBCB8B"
+yellow_bright: &yellow_bright "#ffdf9f"
 
 k9s:
   body:
