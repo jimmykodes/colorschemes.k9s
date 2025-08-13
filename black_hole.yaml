@@ -1,15 +1,15 @@
-# system76
-foreground: &foreground "#cccccc"
-background: &background "#222222"
-black: &black "#181818"
-blue: &blue "#18a9c7"
-green: &green "#6eaa76"
-gray: &gray "#98918d"
-orange: &orange "#d19a66"
-purple: &purple "#D16D9E"
-red: &red "#f15d22"
-yellow: &yellow "#eece61"
-yellow_bright: &yellow_bright "#ffe275"
+# black_hole
+foreground: &foreground "#fde9c3"
+background: &background "#080028"
+black: &black "#00001e"
+blue: &blue "#5d6aff"
+green: &green "#ffb102"
+gray: &gray "#817ee0"
+orange: &orange "#fd7e00"
+purple: &purple "#ab1a95"
+red: &red "#fe5683"
+yellow: &yellow "#fdca33"
+yellow_bright: &yellow_bright "#ffde47"
 
 k9s:
   body:
